@@ -1,10 +1,10 @@
 # Storage-of-Last-Resort
 Ansätze und Techniken für Unveränderliche (Immutable) Backups
 
-##Unveränderliche (Immutable) Backups  
+## Unveränderliche (Immutable) Backups  
 Die Idee ist, dass man einmal schreibt und dann die Dateien (Backups) für eine selbst definierte Zeitspanne geschützt sind. Selbst der Backup-Administrator kann sie nicht löschen, bevor die definierte Zeitspanne verstrichen ist.
 
-###S3 Object Storage 
+### S3 Object Storage 
 Der S3 Object Storage bietet die möglichkeit Datenobjecte für definierte Zeiträume wegzusperren.   
 WASABI ist z.Z. der günstigste Anbieter auf dem Markt.
 
