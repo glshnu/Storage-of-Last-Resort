@@ -15,3 +15,10 @@ Viele Cloud Backup Lösungen bieten diese Möglichkeit an.
 
 ### Links
 (Strategien zum Schutz von Veeam Backups durch unveränderliche Repository Server mit Linux XFS)[https://www.elasticsky.de/2021/01/strategien-zum-schutz-von-veeam-backups-durch-unveraenderliche-repository-server-mit-linux-xfs/]
+
+### Opensource Storage Software
+[ceph](https://ceph.io/en/)  
+Ceph ist eine Open Source Lösung, die als verteiltes System Block-, Datei- und Objekt-basierten Speicher zur Verfügung stellen kann und die Anforderungen, welche unter dem Begriff Software-defined Storage verstanden werden, erfüllt.
+
+[TrueNAS Core/FreeNas](https://www.truenas.com/truenas-core/)  
+TrueNAS (ehemals FreeNAS) ergänzt das eigene LAN um ein Netzwerklaufwerk (Network-Attached-Storage - NAS) zum Speichern von Dateien und Medien.
