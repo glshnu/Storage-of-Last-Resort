@@ -22,3 +22,7 @@ Ceph ist eine Open Source Lösung, die als verteiltes System Block-, Datei- und 
 
 [TrueNAS Core/FreeNas](https://www.truenas.com/truenas-core/)  
 TrueNAS (ehemals FreeNAS) ergänzt das eigene LAN um ein Netzwerklaufwerk (Network-Attached-Storage - NAS) zum Speichern von Dateien und Medien.
+  
+[IONOS Object Speicher](https://cloud.ionos.de/storage/object-storage)  
+S3 Object Storage von IONOS Cloud macht Unternehmen den digitalen Wandel leicht. Speichern und verwalten Sie variable Datenmengen besonders flexibel, einfach und kostengünstig. Sie brauchen anpassungsfähigen Speicherplatz für Filesharing, Backups und Archive? Wollen Sie Unternehmensdaten, Medienbibliotheken oder unstrukturierte Rohdaten für Big-Data zuverlässig vorhalten? S3 Object Storage von IONOS Cloud ist Ihre ideale Lösung – auch zur Speicherung geschäftskritischer Daten.
+Dank S3 Object Lock erfüllt es alle gesetzlichen Vorgaben für die Daten-Langzeitspeicherung.
